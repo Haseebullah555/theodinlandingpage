@@ -115,6 +115,7 @@ button,
 }
 #photos {
   display: flex;
+  align-items: baseline;
   gap: 60px;
 }
 .pic {
@@ -143,6 +144,7 @@ button,
     justify-content: center;
     text-align: center;
     width: 150px;
+    height: 250px;
 }
 /* Quote section styling */
 #quote {
